@@ -1,0 +1,54 @@
+* {
+    margin:0;
+    padding:0;
+  }
+  body {
+    background-image:url('https://cdn.pixabay.com/photo/2014/12/23/14/45/woman-578429_640.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+     
+  }
+  ul {
+    list-style-type:none;
+    display:flex;
+    align-items:flex-end;
+    justify-content:flex-end;  
+  }
+#imgae {
+  width:100px;
+  height:;
+  margin-left:90px;
+  margin-top:30px;
+  margin-bottom:0;
+  mix-blend-mod:darken;
+  
+}
+  ul li {
+    margin:10px;
+  }
+  ul a {
+    color:black;
+    text-decoration:none;
+  }
+  #anud {
+    border:2px solid white;
+    width:300px;
+    height:100vh;
+    border-left:none;
+    border-radius:50%;
+    position:relative;
+    right:70px;
+    background-color:rgba(253, 254, 254,0.8);
+  }
+  h2 {
+    position:relative;
+    top:100px;
+    left:90px
+  }
+  p {
+    position:relative;
+    top:120px;
+    left:90px;
+  }
